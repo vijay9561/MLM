@@ -1,0 +1,9 @@
+[12-Oct-2017 23:19:48 Asia/Kolkata] PHP Warning:  mysql_connect(): Access denied for user 'telegnxo_demo'@'localhost' (using password: YES) in /home/telegnxo/public_html/demo/config.php on line 8
+[12-Oct-2017 23:23:53 Asia/Kolkata] PHP Notice:  Undefined index: ID in /home/telegnxo/public_html/demo/product-details.php on line 499
+[13-Oct-2017 14:20:28 Asia/Kolkata] PHP Warning:  move_uploaded_file(images/profile/j4e_7099.jpg): failed to open stream: No such file or directory in /home/telegnxo/public_html/demo/post.php on line 327
+[13-Oct-2017 14:20:28 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJ5dtPW' to 'images/profile/j4e_7099.jpg' in /home/telegnxo/public_html/demo/post.php on line 327
+[16-Feb-2018 16:36:54 Asia/Kolkata] PHP Notice:  Undefined index: ID in /home/telegnxo/public_html/demo/product-details.php on line 499
+[14-Mar-2018 18:22:19 Asia/Kolkata] PHP Notice:  Undefined index: ID in /home/telegnxo/public_html/demo/product-details.php on line 499
+[14-Mar-2018 18:22:30 Asia/Kolkata] PHP Notice:  Undefined index: ID in /home/telegnxo/public_html/demo/product-details.php on line 499
+[14-Mar-2018 18:22:49 Asia/Kolkata] PHP Notice:  Undefined index: ID in /home/telegnxo/public_html/demo/product-details.php on line 499
+[28-Sep-2018 14:43:21 Asia/Kolkata] PHP Notice:  Undefined index: ID in /home/telegnxo/public_html/demo/product-details.php on line 499

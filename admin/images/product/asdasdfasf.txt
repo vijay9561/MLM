@@ -1,0 +1,3 @@
+database  name: globalli_quicknaukari
+username globalli_quickna
+password  quickna
